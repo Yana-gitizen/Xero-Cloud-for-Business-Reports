@@ -1,6 +1,6 @@
 <img width="1326" height="481" alt="Image" src="https://github.com/user-attachments/assets/539294fb-a9ab-4d6d-8999-d7ccf35c3955" />
 <img width="1303" height="532" alt="Image" src="https://github.com/user-attachments/assets/6b208ad9-7fa3-4109-b151-2ecabdf4dc6e" />
-<img width="1326" height="481" alt="Image" src="https://github.com/user-attachments/assets/539294fb-a9ab-4d6d-8999-d7ccf35c3955" />
+
 Xero is widely considered one of the best accounting solutions for growing companies, particularly due to its cloud-based architecture, scalability, and robust integration capabilities. It is designed to handle increasing transaction volumes and supports unlimited users, making it suitable for businesses evolving beyond the startup phase. 
 Xero benefits scaling businesses by providing real-time financial visibility, automating tasks (invoicing, bank reconciliation) to save time, enabling seamless collaboration with accountants, offering mobile access for on-the-go management, integrating with other business apps, and being inherently scalable to grow with the company, all while ensuring secure, cloud-based data storage and compliance. It shifts focus from manual data entry to strategic decision-making for growth. 
 Making dashboards in Xero is easy through its built-in customization, allowing you to drag, drop, show, or hide panels like bank balances, cash flow, and outstanding invoices directly from the main dashboard, plus you can add advanced custom dashboards using integrated apps for deeper insights
